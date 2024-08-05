@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dasboard on ReyWeb</title>
+    <link>http://localhost:54998/tags/dasboard/</link>
+    <description>Recent content in Dasboard on ReyWeb</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>Copyright © 2008–2019, Steve Francia and the lee.so; all rights reserved.</copyright>
+    <lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:54998/tags/dasboard/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bahaya Dari Terjadinya Kebakaran</title>
+      <link>http://localhost:54998/post/emoji-support/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:54998/post/emoji-support/</guid>
+      <description>Klasifikasi Tingkat Potensi Kebakaran Berdasarkan Keputusan Menteri Tenaga Kerja Republik Indonesia No.KEP.186/MEN/1999 Bahaya Kebakaran Ringan : merupakan klasifikasi tingkat potensi kebakaran ditempat kerja yang mempunyai jumlah dan kemudahan terbakar rendah, dan apabila terjadi-kebakaran melepaskan panas rendah, sehingga menjalarnya api lambat.&#xA;Bahaya Kebakaran Sedang I : adalah kelompok tingkat potensi kebakaran ditempat kerja yang mempunyai jumlah dan kemudahan terbakar sedang, menimbun bahan dengan tinggi tidak lebih dari 2,5 meter dan apabila terjadi kebakaran melepaskan panas sedang, sehingga menjalarnya api sedang</description>
+    </item>
+  </channel>
+</rss>
